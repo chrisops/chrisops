@@ -1,9 +1,11 @@
-<a href="https://github.com/chrisops/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisops&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/chrisops/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisops&repo=convoychat" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chrisops&count_private=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisops&count_private=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
+</p>
+
+
 <!--
 **chrisops/chrisops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
